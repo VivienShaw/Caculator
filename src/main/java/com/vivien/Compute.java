@@ -1,3 +1,5 @@
+package com.vivien;
+
 public class Compute {
 
     public double plus(double m, double n) {

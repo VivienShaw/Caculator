@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://E://caculator/.idea/modules/caculator.iml" filepath="E://caculator/.idea/modules/caculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/caculator.iml" filepath="$PROJECT_DIR$/.idea/modules/caculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/caculator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/caculator_main.iml" group="caculator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/caculator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/caculator_test.iml" group="caculator" />
     </modules>

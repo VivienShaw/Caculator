@@ -1,3 +1,4 @@
+import com.vivien.Compute;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
