@@ -10,4 +10,5 @@ public class ComputeTest {
         Compute compute = new Compute();
         assertEquals(2,compute.plus(1,1),0.01);
     }
+
 }
